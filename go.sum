@@ -1,0 +1,6 @@
+github.com/daisuke310vvv/infura-go v0.2.0 h1:Xnq6IAXzeXYkqA1ZWDcJPPg3v5817JjXOGPWG1ne5ok=
+github.com/daisuke310vvv/infura-go v0.2.0/go.mod h1:vz9ssWAvRSpIDPRZeNjmLm00O5nA8rPlVn1kfaXGWKA=
+github.com/ethereum/go-ethereum v1.10.25 h1:5dFrKJDnYf8L6/5o42abCE6a9yJm9cs4EJVRyYMr55s=
+github.com/ethereum/go-ethereum v1.10.25/go.mod h1:EYFyF19u3ezGLD4RqOkLq+ZCXzYbLoNDdZlMt7kyKFg=
+github.com/shopspring/decimal v1.3.1 h1:2Usl1nmF/WZucqkFZhnfFYxxxu8LG21F6nPQBE5gKV8=
+github.com/shopspring/decimal v1.3.1/go.mod h1:DKyhrW/HYNuLGql+MJL6WCR6knT2jwCFRcu2hWCYk4o=
